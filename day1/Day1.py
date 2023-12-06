@@ -9,7 +9,7 @@ def extract_digits(string):
     return two_digit_integer
 
 # Input file containing strings
-file_path = "day1input.txt"
+file_path = "day1/day1input.txt"
 
 # List to store the extracted 2-digit integers
 extracted_integers = []
